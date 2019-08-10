@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Run the program
 
-- Go to your directory and run program via
+- Go to your directory and run program via command prompt:
 
 ```
 python face-recognition.py
