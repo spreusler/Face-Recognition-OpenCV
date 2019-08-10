@@ -1,5 +1,4 @@
 import cv2
-import sys
 
 # Load pre-trained model 'haarcascade_frontalface_alt.xml" for face recognition / classification
 faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
