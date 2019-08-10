@@ -4,8 +4,8 @@ Basic Face Recognition Code to detect faces in a Webcam.
 
 ## Getting Started
 
-- Download entire repository.
-- "haarcascade_frontalface_alt.xml" is the pre-trained model for face detection.
+- Download entire repository
+- "haarcascade_frontalface_alt.xml" is the pre-trained model for face detection
 
 ### Prerequisites
 
